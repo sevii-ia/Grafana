@@ -38,13 +38,16 @@ This repository is intended for learning and experimentation rather than product
 
 ```txt
 Grafana/
-├── dashboards/
 ├── configs/
-├── datasources/
-├── docker/
-├── screenshots/
-├── docs/
-└── README.md
+├── Jenkinsfile
+├── README.md
+├── alertmanager.sh
+├── docker-compose.yml
+├── grafana.sh
+├── install_prometheus_server.sh
+├── prometheus_node_exporter.sh
+├── run.sh
+└── static-dinamic
 ````
 
 ---
